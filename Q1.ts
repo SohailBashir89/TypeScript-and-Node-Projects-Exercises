@@ -6,6 +6,3 @@
 var personName:string=("Aaron");
 var message:string=`Hello ${personName}, Its time to go to school, finsih your breakfast and get ready for school.`;
 console.log(message);
-
-
-
